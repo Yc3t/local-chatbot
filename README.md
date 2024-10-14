@@ -2,6 +2,8 @@
 
 A lightweight, browser-based chatbot powered by TinyLlama and MLC Web LLM.
 
+![Screenshot of the chatbot](screenshot.png)
+
 ## Overview
 This project implements a chatbot that runs entirely in the browser using the TinyLlama-1.1B-Chat-v1.0 model and MLC Web LLM. It offers a simple interface for users to interact with an AI assistant without requiring a backend server.
 

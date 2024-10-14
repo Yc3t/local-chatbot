@@ -85,7 +85,7 @@
       const $text = $newMessage.querySelector('p')
 
       $text.textContent = text
-      $who.textContent = sender === 'bot' ? 'GPT' : 'Tú'
+      $who.textContent = sender === 'bot' ? 'GPT' : 'You'
       $newMessage.classList.add(sender)
 
       $messages.appendChild($newMessage)
